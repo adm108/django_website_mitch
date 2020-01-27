@@ -23,10 +23,9 @@ https://www.youtube.com/playlist?list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
 - JavaScript (small piece of code to make an frontend effect during changin post's pictures).
 
 ## Instalation:
-1. Clone repository:
-sh
-https://github.com/adm108/django_website_mitch.git
-'''
+#### 1. Clone repository:
 ```sh
-$ git clone https://github.com/eRafaell/simple-flashcards.git
+$ https://github.com/adm108/django_website_mitch.git
 ```
+#### 2. Create virtual enviroment next to src folder (not inside).
+#### 3. 
