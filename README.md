@@ -24,6 +24,9 @@ https://www.youtube.com/playlist?list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
 
 ## Instalation:
 1. Clone repository:
-'''sh
+sh
 https://github.com/adm108/django_website_mitch.git
 '''
+```sh
+$ git clone https://github.com/eRafaell/simple-flashcards.git
+```
