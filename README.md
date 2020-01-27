@@ -1,5 +1,7 @@
 # django_website_mitch
 
+## Description:
+
 Blog website based on Mitch Tabian's tutorial from youtube:
 
 https://www.youtube.com/playlist?list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
@@ -21,3 +23,7 @@ https://www.youtube.com/playlist?list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
 - JavaScript (small piece of code to make an frontend effect during changin post's pictures).
 
 ## Instalation:
+1. Clone repository:
+'''
+https://github.com/adm108/django_website_mitch.git
+'''
