@@ -25,7 +25,7 @@ https://www.youtube.com/playlist?list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
 ## Instalation:
 #### 1. Clone repository:
 ```sh
-$ https://github.com/adm108/django_website_mitch.git
+$ git clone https://github.com/adm108/django_website_mitch.git
 ```
-#### 2. Create virtual enviroment next to src folder (not inside).
+#### 2. Create virtual enviroment next to src folder (not inside). Activate it. pip install -r reqiurements.txt, create folders: static, static_cdn, media, media_cdn., python manage.py makemigrations, migrate, createspueruser, static - logocodingwithmitch.png file - some logo example and python manage.py collectstatic. python manage.py runserver.
 #### 3. Fix it!
