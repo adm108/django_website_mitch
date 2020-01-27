@@ -28,5 +28,4 @@ https://www.youtube.com/playlist?list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
 $ https://github.com/adm108/django_website_mitch.git
 ```
 #### 2. Create virtual enviroment next to src folder (not inside).
-#### 3. 
-
+#### 3. Fix it!
