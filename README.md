@@ -24,6 +24,6 @@ https://www.youtube.com/playlist?list=PLgCYzUzKIBE_dil025VAJnDjNZHHHR9mW
 
 ## Instalation:
 1. Clone repository:
-'''
+'''sh
 https://github.com/adm108/django_website_mitch.git
 '''
